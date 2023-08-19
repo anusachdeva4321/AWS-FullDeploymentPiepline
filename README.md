@@ -58,6 +58,7 @@ Locate the command for Clone the repository and copy it into your clipboard.
 
 In your terminal, move to the folder where you want the repo stored. Generally i create a repos folder in my home folder using the mkdir ~/repos command, then move into this folder with cd ~/repos
 then run the clone command, which should look something like ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/codecommit-XXX
+You can download https://github.com/anusachdeva4321/AWS-FullDeploymentPiepline/blob/3783ba5b071d870da134dd4ca892a671d3445d5d/Lab_Setup/container.zip
 
 
 
